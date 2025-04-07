@@ -1,7 +1,7 @@
  ¡Hola! 👋 Soy Paola Nicole 
 
 ### 👩‍💻 Sobre mí  
-¡Bienvenid@ a mi perfil! Soy una apasionada por ** "el desarrollo web, la ciencia de datos o el diseño UX"]**. Me encanta aprender tecnologías nuevas y colaborar en proyectos innovadores.  
+¡Bienvenid@ a mi perfil! Soy una apasionada por el desarrollo web, la ciencia de datos o el diseño. Me encanta aprender tecnologías nuevas y colaborar en proyectos innovadores.  
 
 ### 🌱 Actualmente estoy aprendiendo  
 [![Tecnología](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]() 
