@@ -25,7 +25,7 @@ www.linkedin.com/in/paola-mendoza-116248340
 
 ### ⚡ Dato curioso  
 ¡Soy bailarina de salsa en mis tiempos libres! 🎶
-¡Soy violinista en mis tempos libros!
+¡Soy violinista en mis tempos libres!
 ---
 
 📊 **Mis estadísticas en GitHub**:  
